@@ -1,1 +1,28 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
+env/
+
+# Environment variables
+*.env
+
+# Dependency files
+*.lock
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and output
+*.log
+*.out
+*.cache
